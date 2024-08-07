@@ -19,8 +19,8 @@ def github_intro():
         "That, my friends, is what I'm interested in.\n\n"
         - 😄 Pronouns:im a verb😄
 - ⚡  "Kryptonite: Luco's BBQ Chicken & Ribs Combo, Coffee, & good old-fashioned tobacco from Antarctica."
-- - 📫 How to reach me  publicemailap333@gmail.com
-- <!---
+- 📫 How to reach me  publicemailap333@gmail.com
+ <!---
 da-hustler/da-hustler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
