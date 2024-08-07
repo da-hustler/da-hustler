@@ -4,7 +4,7 @@
     story = (
         f"Hi I'm {name} AKA \"{nickname}\" the nickname comes from a 12 year kid flipping newspapers. "
         f"No longer a child now it's just {name} short for Adelso. "
-        f"Now I flip code base script API integration tactics, LLM training, embedding and data."
+        f"Now I flip code base script API integration tactics, LLM training, embedding and data cleaning."
     )
     print(story)
 
