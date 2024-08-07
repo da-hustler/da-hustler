@@ -27,9 +27,6 @@ You can click the Preview link to take a look at your changes.
     )
     print(intro)
 
-if __name__ == "__main__":
-    github_intro()
-
 
 
 
