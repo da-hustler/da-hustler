@@ -2,10 +2,8 @@
     name = "Adel"
     nickname = "da-hustler"
     story = (
-        f"Hi I'm da-hustler the nickname comes from a 12 year kid flipping newspapers. "
-        "No longer a child now it's just Adel short for Adelso. "
-        "Now I flip code base script API integration tactics, LLM training, embedding and data cleaning."
-    )
+        f"Hi I'm da-hustler following Py code base script API integration tactics, LLM training, embedding and data cleaning."
+    
     print(story)
 
 if __name__ == "__main__":
@@ -18,7 +16,7 @@ def github_intro():
         "as chat-based GPT and how it evolved from bi-grams. The question I constantly ask myself is what's next? "
         "That, my friends, is what I'm interested in.\n\n"
         - 😄 Pronouns:im a verb😄
-- ⚡  "Kryptonite: Luco's BBQ Chicken & Ribs Combo, Coffee, & good old-fashioned tobacco & Coffee from Antarctica."
+- ⚡  "Kryptonite: Luco's BBQ Chicken & Ribs Combo, & good old-fashioned tobacco & Coffee from Antarctica."
  <!---
 da-hustler/da-hustler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
