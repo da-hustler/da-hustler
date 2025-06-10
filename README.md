@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Adel — aka **da-hustler**
 
-From welding sparks to machine learning arcs — I'm Adel, aka **da-hustler**. A self-made developer with a foundation and a passion for the future of artificial intelligence.
+From welding sparks to machine learning arcs — I'm Adel, aka **da-hustler**. A developer with a foundation and a passion for the future of artificial intelligence.
 
 With 15+ years of dev, sales, manufacturing experience and roots in manufacturing, software engineering, I now focus on:
 - 🔧 Python scripting, API integration & data pipelines  
