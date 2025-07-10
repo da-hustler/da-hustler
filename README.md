@@ -12,7 +12,7 @@ With 15+ years of dev, sales, manufacturing experience and roots in manufacturin
 
 ## 🚀 The Mission
 
-I’m obsessed with understanding just how far we can push this AI frontier. From bi-grams to GPT-4 and beyond — we’ve turned language into logic, and I'm here for it.
+I’m obsessed with understanding just how far we can push this AI frontier. From bi-grams to LLM's and beyond — we’ve turned language into logic, and I'm here for it.
 
 > 💭 _"What's next?"_  
 > That question fuels my hustle, every single day.
