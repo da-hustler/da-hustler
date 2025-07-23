@@ -2,7 +2,7 @@
 
 From welding sparks to machine learning arcs — I'm Adel, aka **da-hustler**. A developer with a foundation and a passion for the future of artificial intelligence.
 
-With 15+ years of dev, sales, manufacturing experience and roots in manufacturing, software engineering, I now focus on:
+With 15+ years of dev, sales, manufacturing experience and roots in steel manufacturing, software engineering, I now focus on:
 - 🔧 Python scripting, API integration & data pipelines  
 - 🤖 LLM fine-tuning, embeddings, and automation workflows  
 - 🧠 AI prompt engineering & model reasoning  
